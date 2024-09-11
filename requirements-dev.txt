@@ -1,0 +1,3 @@
+ruff    # A code formatter, sorts imports etc.
+pytest
+httpx

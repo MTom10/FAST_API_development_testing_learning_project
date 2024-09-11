@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+databases[aiosqlite]
+python-dotenv # to read .env variables
+pydantic-settings
